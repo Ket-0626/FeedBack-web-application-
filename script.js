@@ -122,3 +122,4 @@ function editFeedback(id){
         window.location.reload();
     })
 }
+
