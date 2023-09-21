@@ -139,6 +139,7 @@ textarea{
     line-height: 22px;
     color: rgb(140, 146, 179);
     margin-bottom: 24px;
+    
 }
 
 .modal__footer{
@@ -151,3 +152,4 @@ textarea{
     color: rgb(242, 244, 254);
     background: rgb(101,110,163) none repeat scroll 0% 0%;   
 }
+
